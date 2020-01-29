@@ -1,11 +1,11 @@
 # Site settings
 author: Sheriefs Gamble
-title: 
+title: CLI Gem Project
 header-img: img/home-bg.png
 email: sgamble284@gmail.com
 copyright_name: Sheriefs Gamble
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI Gem
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sherg4362
